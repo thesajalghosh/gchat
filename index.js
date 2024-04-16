@@ -21,6 +21,7 @@ app.get("/api/user", (req, res) => {
     });
   }
 });
+//this is sajal
 
 const server = http.createServer(app);
 let users = [];
